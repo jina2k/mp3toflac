@@ -1,0 +1,4 @@
+librosa==0.11.0
+numpy==2.4.4
+cupy-cuda13x==14.0.1
+soundfile==0.13.1
